@@ -1,2 +1,3 @@
-# neuroblastoma_project
-3rd bioinformatics project
+# RNA sequence analysis - Neuroblastoma Project
+
+Final Bioinformatics MSc project
