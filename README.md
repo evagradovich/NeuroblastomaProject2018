@@ -13,4 +13,4 @@
 4. **deseq.R** = R script for differential gene expression analysis using DESeq2. The scripts also involves code for useful plots, such as distance matrix and PCA plots. 
 
 
-**file_manipulation_commands.sh** = useful commands to use along the process.
+5. **file_manipulation_commands.sh** = useful commands to use along the process.
