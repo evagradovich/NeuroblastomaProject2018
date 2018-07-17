@@ -1,6 +1,6 @@
 # RNA sequence analysis - Neuroblastoma Project
 
-Final Bioinformatics MSc project
+## Final Bioinformatics MSc project
 
 
 1. **fastq_quality_assessment.sh** = Prior to next steps, quality of raw FASTQ reads is assessed using FastQC program. (The instructions for installing FastQC software are included in the script)
