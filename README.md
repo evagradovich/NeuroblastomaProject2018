@@ -14,3 +14,5 @@
 
 
 5. **file_manipulation_commands.sh** = useful commands to use along the process.
+
+6. **infusion.sh** = Using InFusion to detect fusion transcripts _(in progress)_
